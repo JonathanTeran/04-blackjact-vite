@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base:'/js-vite-blackjact/',
+    base:'/04-blackjact-vite/',
 
 });
